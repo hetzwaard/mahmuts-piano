@@ -7,8 +7,10 @@ h1, h2, h3, h4, h5, p, .title, .medium-widget, .medium-widget-article__content {
 }
 
 body, html {
-  background-color: #111 !important;
-  padding-bottom: 50px;
+	background-color: #111 !important;
+	padding-bottom: 50px;
+	padding-top: 25px;
+	padding-left: 225px;
 }
 
 
@@ -64,6 +66,7 @@ body, html {
 
 .banner-subtitle {
   color: #9E9E9E ;
+  padding-top: 15px;
 }
 
 .banner {
@@ -80,7 +83,7 @@ body, html {
 
 @media screen and (max-width: 1087px) {
   .bars {
-    padding-left: 27%;
+    padding-left: 100%;
   }
 }
 
@@ -261,26 +264,6 @@ span.new {
 .badge.column {
   padding: 0px;
   margin-right: 6px;
-}
-
-.balance {
-    background-image: url(https://discord.com/assets/9fdc63ef8a3cc1617c7586286c34e4f1.svg);
-}
-
-.developer {
-    background-image: url(https://discord.com/assets/45cd06af582dcd3c6b79370b4e3630de.svg);
-}
-
-.early-sup {
-    background-image: url(https://discord.com/assets/23e59d799436a73c024819f84ea0b627.svg);
-}
-
-.nitro {
-    background-image: url(https://discord.com/assets/386884eecd36164487505ddfbac35a9d.svg);
-}
-
-.boost {
-    background-image: url(https://discord.com/assets/fbb6f1e160280f0e9aeb5d7c452eefe1.svg);
 }
 
 .connectedAccounts {
