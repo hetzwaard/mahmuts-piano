@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} !^www.mahmut.xyz$ [NC]
+RewriteRule ^(.*)$ http://www.mahmut.xyz/$1 [L,R=301]
