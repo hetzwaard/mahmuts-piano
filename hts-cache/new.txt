@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+00:18:47	6220/6220	---MCZ	200	added ('OK')	text/html	date:Thu,%2025%20Mar%202021%2021:18:46%20GMT	https://pnrtscr.com/gz5n0s	C:/Users/mahmut/Documents/HTTrack/akilsagliginikaybet.com/pnrtscr.com/gz5n0s.html	(from )
+00:18:47	1754/1754	---MCZ	200	added ('OK')	text/html	date:Thu,%2025%20Mar%202021%2021:18:47%20GMT	https://pnrtscr.com/robots.txt		(from )
+00:18:47	86406/86406	---M--	200	added ('OK')	image/png	etag:%2215186-5bcc6749dd437%22	https://pnrtscr.com/lightshot.png	C:/Users/mahmut/Documents/HTTrack/akilsagliginikaybet.com/pnrtscr.com/lightshot.png	(from https://pnrtscr.com/gz5n0s)
+00:18:48	973641/973641	---M--	200	added ('OK')	video/mp4	etag:%22edb49-5bcc6749df377%22	https://pnrtscr.com/video.mp4	C:/Users/mahmut/Documents/HTTrack/akilsagliginikaybet.com/pnrtscr.com/video.mp4	(from https://pnrtscr.com/gz5n0s)
