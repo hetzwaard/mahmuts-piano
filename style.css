@@ -46,6 +46,9 @@ header input {
   outline: none;
   border-radius: 30px;
 }
+nav {
+  padding-left: 47px;
+}
 .volume-slider input {
   accent-color: #79cbb8;
 }
@@ -132,6 +135,9 @@ header input {
   }
   header :where(h2, .column) {
     margin-bottom: 13px;
+  }
+  nav {
+    margin-left: 70px;
   }
   .volume-slider input {
     max-width: 100px;
