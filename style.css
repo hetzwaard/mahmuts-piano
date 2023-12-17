@@ -49,6 +49,12 @@ header input {
 nav {
   padding-left: 47px;
 }
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+}
 .volume-slider input {
   accent-color: #79cbb8;
 }
